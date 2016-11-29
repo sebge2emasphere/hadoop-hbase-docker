@@ -14,5 +14,3 @@ echo -e "starting hbase \n"
 #echo -e "starting local regionserver \n"
 #./bin/local-regionservers.sh start 3
 sleep 5
-echo -e "starting hbase shell  \n"
-./bin/hbase shell
